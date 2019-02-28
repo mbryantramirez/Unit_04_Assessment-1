@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit_04_Assessment</string>
+    <string name="image_title">Title</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deatil_fragment_button">Go to Wiki</string>
+    <string name="detail_fragment_title">Animal Title</string>
+</resources>
